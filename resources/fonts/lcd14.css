@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'LCD14';
+        src: url('LCD14.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
+@font-face {
+    font-family: 'LCD14Condensed';
+        src: url('LCD14Condensed.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
+@font-face {
+    font-family: 'LCD14Italic';
+        src: url('LCD14Italic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+      }
+
+@font-face {
+    font-family: 'LCD14ItalicCondensed';
+        src: url('LCD14ItalicCondensed.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+      }
